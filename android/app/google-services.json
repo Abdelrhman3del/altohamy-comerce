@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697059227544",
+    "project_id": "altohamy-49579",
+    "storage_bucket": "altohamy-49579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697059227544:android:bf44a5becb7e3783a7dded",
+        "android_client_info": {
+          "package_name": "com.example.untitled5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697059227544-6i2ogr14ostviet5682kldpju1alqdk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPraUCZQtFU8sFFNCLeVlvwAFBuU0tns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697059227544-6i2ogr14ostviet5682kldpju1alqdk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
